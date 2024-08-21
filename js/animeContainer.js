@@ -1,4 +1,4 @@
-import { AnimeDetails } from "./animeDetails.js";
+import { AnimeDetails } from "/animeDetails.js";
 
 export class AnimeContainer {
     constructor() {
@@ -35,7 +35,7 @@ export class AnimeContainer {
     }
 
     async setView() {
-        const animeData = await (await fetch('../get_anime_data.json')).json();
+        const animeData = await (await fetch('./get_anime_data.json')).json();
         this.animeList = animeData.animeList;
         this.renderAnimeList();
     }
