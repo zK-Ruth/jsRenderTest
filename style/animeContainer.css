@@ -1,0 +1,52 @@
+.anime__container {
+    position: relative;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    border-color: rgb(207, 207, 207);
+    border-style: solid;
+    border-width: 1px;
+}
+
+.sort__container {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+
+    position: relative;
+    margin: 2%;
+}
+
+.sort-by-title, .sort-by-date {
+    font-family: Arial;
+    height: 23px;
+
+    border: 0 solid rgb(216, 151, 151);
+    border-bottom-width: 2px;
+
+    margin-right: 5px;
+    padding-bottom: 0px;
+
+    background-color: white;
+    cursor: pointer;
+}
+
+.sort-by-title:active, .sort-by-date:active {
+    border: 0 solid rgb(182, 55, 55);
+    border-bottom-width: 2px;
+}
+
+
+.section-name {
+    position: absolute;
+    top: -40px;
+    left: 0px;
+
+    font-family: Arial;
+}
+
+.scroll__container {
+    max-height: 600px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

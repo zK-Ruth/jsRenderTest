@@ -1,0 +1,13 @@
+.logo__container {
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 40px;
+}
+
+.logo-main {
+    height: 70px;
+    width: 50%;
+
+    margin: 3%;
+}

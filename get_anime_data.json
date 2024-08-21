@@ -1,0 +1,105 @@
+{
+    "animeList": [
+      {
+        "name": "Naruto",
+        "year": 2002,
+        "genre": "Action, Adventure, Fantasy",
+        "rating": "PG-13",
+        "description": "A young ninja strives to become the strongest ninja and protect his village.",
+        "pictures": [
+          "/media/naruto.jpg"
+        ]
+      },
+      {
+        "name": "Attack on Titan",
+        "year": 2013,
+        "genre": "Action, Drama, Fantasy",
+        "rating": "R",
+        "description": "Humanity fights for survival against monstrous titans in a post-apocalyptic world.",
+        "pictures": [
+          "/media/aot.jpg"
+        ]
+      },
+      {
+        "name": "Fullmetal Alchemist: Brotherhood",
+        "year": 2009,
+        "genre": "Action, Adventure, Drama",
+        "rating": "PG-13",
+        "description": "Two brothers search for the Philosopher's Stone to restore their bodies.",
+        "pictures": [
+          "/media/fmab.jpg"
+        ]
+      },
+      {
+        "name": "My Hero Academia",
+        "year": 2016,
+        "genre": "Action, Comedy, School",
+        "rating": "PG-13",
+        "description": "A young boy born without superpowers strives to become the greatest hero.",
+        "pictures": [
+          "/media/mha.jpg"
+        ]
+      },
+      {
+        "name": "Death Note",
+        "year": 2006,
+        "genre": "Mystery, Supernatural, Thriller",
+        "rating": "R",
+        "description": "A high school student discovers a notebook that allows him to kill anyone by writing their name in it.",
+        "pictures": [
+          "/media/deathnote.jpg"
+        ]
+      },
+      {
+        "name": "One Piece",
+        "year": 1999,
+        "genre": "Action, Adventure, Comedy",
+        "rating": "PG-13",
+        "description": "A group of pirates seeks the legendary One Piece treasure to become the Pirate King.",
+        "pictures": [
+          "/media/onepiece.jpg"
+        ]
+      },
+      {
+        "name": "Demon Slayer",
+        "year": 2019,
+        "genre": "Action, Supernatural, Historical",
+        "rating": "R",
+        "description": "A young boy becomes a demon slayer to avenge his family and cure his sister.",
+        "pictures": [
+          "/media/demonslayer.jpg"
+        ]
+      },
+      {
+        "name": "Sword Art Online",
+        "year": 2012,
+        "genre": "Action, Adventure, Fantasy",
+        "rating": "PG-13",
+        "description": "Players trapped in a virtual reality MMORPG must fight their way to freedom.",
+        "pictures": [
+          "/media/sao.jpg"
+        ]
+      },
+      {
+        "name": "Tokyo Ghoul",
+        "year": 2014,
+        "genre": "Action, Drama, Horror",
+        "rating": "R",
+        "description": "A college student becomes half-ghoul and struggles to survive in a world of humans and ghouls.",
+        "pictures": [
+          "/media/tokyoghoul.jpg"
+        ]
+      },
+      {
+        "name": "Hunter x Hunter",
+        "year": 2011,
+        "genre": "Action, Adventure, Fantasy",
+        "rating": "PG-13",
+        "description": "A young boy embarks on a journey to become a Hunter and find his father.",
+        "pictures": [
+          "/media/hxh.jpg"
+        ]
+      }
+    ]
+  }
+  
