@@ -37,7 +37,7 @@
         "rating": "PG-13",
         "description": "A young boy born without superpowers strives to become the greatest hero.",
         "pictures": [
-          "./media/mha.jpg"
+          "media/mha.jpg"
         ]
       },
       {
@@ -47,7 +47,7 @@
         "rating": "R",
         "description": "A high school student discovers a notebook that allows him to kill anyone by writing their name in it.",
         "pictures": [
-          "./media/deathnote.jpg"
+          "media/deathnote.jpg"
         ]
       },
       {
@@ -57,7 +57,7 @@
         "rating": "PG-13",
         "description": "A group of pirates seeks the legendary One Piece treasure to become the Pirate King.",
         "pictures": [
-          "./media/onepiece.jpg"
+          "media/onepiece.jpg"
         ]
       },
       {
@@ -67,7 +67,7 @@
         "rating": "R",
         "description": "A young boy becomes a demon slayer to avenge his family and cure his sister.",
         "pictures": [
-          "./media/demonslayer.jpg"
+          "media/demonslayer.jpg"
         ]
       },
       {
@@ -77,7 +77,7 @@
         "rating": "PG-13",
         "description": "Players trapped in a virtual reality MMORPG must fight their way to freedom.",
         "pictures": [
-          "./media/sao.jpg"
+          "media/sao.jpg"
         ]
       },
       {
@@ -87,7 +87,7 @@
         "rating": "R",
         "description": "A college student becomes half-ghoul and struggles to survive in a world of humans and ghouls.",
         "pictures": [
-          "./media/tokyoghoul.jpg"
+          "media/tokyoghoul.jpg"
         ]
       },
       {
@@ -97,7 +97,7 @@
         "rating": "PG-13",
         "description": "A young boy embarks on a journey to become a Hunter and find his father.",
         "pictures": [
-          "./media/hxh.jpg"
+          "media/hxh.jpg"
         ]
       }
     ]
