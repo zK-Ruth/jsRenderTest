@@ -1,6 +1,6 @@
 @import 'index.css';
-@import '/animeContainer.css';
-@import '/animeDetails.css';
+@import 'animeContainer.css';
+@import 'animeDetails.css';
 
 @media (max-width: 800px) {
     p {
