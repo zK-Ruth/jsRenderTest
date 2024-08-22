@@ -1,4 +1,4 @@
-import { AnimeContainer } from "animeContainer.js";
+import { AnimeContainer } from "./animeContainer.js";
 
 export class Main {
     constructor() {
