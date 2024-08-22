@@ -1,7 +1,7 @@
 @import 'index.css';
 @import 'animeContainer.css';
 @import 'animeDetails.css';
-
+/*Imports from the same folder*/
 @media (max-width: 800px) {
     p {
         font-size: 12px;
