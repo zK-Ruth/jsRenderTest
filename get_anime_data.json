@@ -7,7 +7,7 @@
         "rating": "PG-13",
         "description": "A young ninja strives to become the strongest ninja and protect his village.",
         "pictures": [
-          "./media/naruto.jpg"
+          "media/naruto.jpg"
         ]
       },
       {
@@ -17,7 +17,7 @@
         "rating": "R",
         "description": "Humanity fights for survival against monstrous titans in a post-apocalyptic world.",
         "pictures": [
-          "./media/aot.jpg"
+          "media/aot.jpg"
         ]
       },
       {
@@ -27,7 +27,7 @@
         "rating": "PG-13",
         "description": "Two brothers search for the Philosopher's Stone to restore their bodies.",
         "pictures": [
-          "./media/fmab.jpg"
+          "media/fmab.jpg"
         ]
       },
       {
