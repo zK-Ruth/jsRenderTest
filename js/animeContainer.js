@@ -1,4 +1,4 @@
-import { AnimeDetails } from "animeDetails.js";
+import { AnimeDetails } from "./animeDetails.js";
 
 export class AnimeContainer {
     constructor() {
